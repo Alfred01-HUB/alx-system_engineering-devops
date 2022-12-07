@@ -1,1 +1,1 @@
-Shell permissions basic commands
+Shell permissions commands
